@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a Product Owner working within the higher education sector in Norway. I have bachelor and master degree in management and I'm especially focused on management within the IT sector and services. I'm also currently working on my Bachelor of IT and Information Systems.
+
+Programmering languages I've been learning so far:
+HTML, CSS, Javascript, PHP, cURL, Java, C#.
+
+I want to learn more about DevOps, GitHub, APIs, frameworks for PHP and JS, and generally translate my academic knowledge to "the real life".
+
 <!--
 **agyCoding/agyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
